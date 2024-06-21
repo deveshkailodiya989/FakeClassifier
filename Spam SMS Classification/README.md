@@ -1,5 +1,3 @@
-![SSMS](readme-resources/spam-sms-banner.png)
-
 
 ## Feature Engineering
 • Handling imbalanced dataset using Oversampling<br/>
