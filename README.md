@@ -1,5 +1,3 @@
-![SSMS](readme-resources/spam-sms-banner.png)
-
 
 ## Project Overview
 • Created a machine learning model that **detects/classifies a SMS into SPAM or HAM (normal) based on the textual data using Natural Language Processing.**<br/>
@@ -18,10 +16,10 @@
 
 ## Feature Engineering
 • Handling imbalanced dataset using Oversampling<br/>
-![SpamVsHam](readme-resources/svh.png)<br/>
+br/>
 • **Creating new features** from existing features e.g. **word_count, contains_currency_symbol, contains_numbers**, etc.<br/>
-![word_count](readme-resources/word_count.png)<br/>
-![currency_numbers](readme-resources/currency_numbers.png)
+<br/>
+
 
 ## Data Cleaning
 • Removing special character and numbers using regular expression<br/>
@@ -38,8 +36,6 @@
 • Decision Tree: 0.98<br/>
 • **Random Forest: 0.994**<br/>
 • Voting (Decision Tree + Multinomial Naive Bayes): 0.98<br/>
-![matrix](readme-resources/cm.png)<br/>
+<br/>
 _**Note: Evaluation scores are obtained using cross validation.**_
 
-## Model Prediction
-![Prediction](readme-resources/prediction.PNG)
