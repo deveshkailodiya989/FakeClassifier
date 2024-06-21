@@ -1,5 +1,5 @@
 ![SSMS](readme-resources/spam-sms-banner.png)
-![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![library](https://img.shields.io/badge/Library-nltk,_sklearn-orange.svg)
+
 
 ## Project Overview
 • Created a machine learning model that **detects/classifies a SMS into SPAM or HAM (normal) based on the textual data using Natural Language Processing.**<br/>
@@ -44,8 +44,4 @@ _**Note: Evaluation scores are obtained using cross validation.**_
 ## Model Prediction
 ![Prediction](readme-resources/prediction.PNG)
 
-## Model Deployment
-• Repository Link: https://github.com/anujvyas/Spam-SMS-Classifier-Deployment<br />
-• Web App Link: https://spam-sms-detector.herokuapp.com/<br/>
 
-_**Do ⭐ the repository, if it helped you in anyway.**_
